@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oliver Mulaku</h1>
-<h3 align="center">Full-Stack Software Engineer with 5+ years specializing in Python/Django and nodejs backends, React/TypeScript and NextJS frontends, and applied AI tooling. Experience building LLM-integrated features (OpenRouter), and AI agent/automation workflows (n8n), combined with strong fundamentals in relational databases, API design, and modern UI development.</h3>
+<h1 align="left">Hi 👋, I'm Oliver Mulaku</h1>
+<h3 align="justify">Full-Stack Software Engineer with 5+ years specializing in Python/Django and nodejs backends, React/TypeScript and NextJS frontends, and applied AI tooling. Experience building LLM-integrated features (OpenRouter), and AI agent/automation workflows (n8n), combined with strong fundamentals in relational databases, API design, and modern UI development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-coderepo&label=Profile%20views&color=0e75b6&style=flat" alt="oliver-coderepo" /> </p>
 
