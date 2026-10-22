@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Oliver Mulaku</h1>
-<h3 align="justify">Full-Stack Software Engineer with 5+ years specializing in Python/Django and nodejs backends, React/TypeScript and NextJS frontends, and applied AI tooling. Experience building LLM-integrated features (OpenRouter), and AI agent/automation workflows (n8n), combined with strong fundamentals in relational databases, API design, and modern UI development.</h3>
+<h3 align="justify">Full-Stack Software Engineer specializing in Python/Django and nodejs backends, React/TypeScript and NextJS frontends, and applied AI tooling. Experience building LLM-integrated features (OpenRouter), and AI agent/automation workflows (n8n), combined with strong fundamentals in relational databases, API design, and modern UI development.</h3>
 
 <p align="left"> <a href="https://twitter.com/mulakuoliver" target="blank"><img src="https://img.shields.io/twitter/follow/mulakuoliver?logo=twitter&style=for-the-badge" alt="mulakuoliver" /></a> </p>
 
